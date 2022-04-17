@@ -87,7 +87,7 @@ Visual Studio-like style based on original C# coloring by Jason Diamond <jason@d
 
 
 /* CSS */
-/*@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
+@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
 
 h1#site-title {
   font-size: 8vh!important;
@@ -111,6 +111,7 @@ a#site-name {
   font-weight: bolder;
   font-family:Fira Code!important;
 }
-*/
 
 
+
+</jason@diamond.name>
